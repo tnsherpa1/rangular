@@ -1,4 +1,4 @@
-# Angular Rails Tutorial README
+# Rangular
 
 * Make sure you have `ruby` installed
 
